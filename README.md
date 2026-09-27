@@ -266,17 +266,12 @@ Aşağıdaki özellikler bu sürümde **kasıtlı olarak** uygulanmamıştır ve
 
 ## 📄 Lisans
 
-Bu proje eğitim ve portföy amaçlı olarak [MIT Lisansı](https://opensource.org/licenses/MIT) ile paylaşılmaktadır. Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+Bu proje, portföy ve açık kaynak topluluğuna katkı amacıyla **[GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.html)** kapsamında lisanslanmıştır. 
+
+Bu lisans doğrultusunda:
+- Kodları inceleyebilir, çalıştırabilir ve üzerinde geliştirmeler yapabilirsiniz.
+- Projeden türetilen veya kodlarını kullanan çalışmalar da aynı şekilde **açık kaynak (GPLv3)** olarak paylaşılmak zorundadır; kodlar kapalı kaynaklı ticari ürünlere dönüştürülemez.
+
+Detaylar için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
 
 ---
-
-### Depoyu GitHub'a Yükleme
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```

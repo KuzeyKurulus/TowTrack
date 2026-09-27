@@ -1,16 +1,14 @@
-MIT License
+Copyright (C) 2026 TowTrack
 
-Copyright (c) 2026 TowTrack
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Bu yazılımın ve ilişkili belge dosyalarının ("Yazılım") bir kopyasını edinen
-herkese, Yazılım üzerinde kısıtlama olmaksızın işlem yapma hakkı, kullanma,
-kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya
-satma hakları da dahil olmak üzere ücretsiz olarak izin verilir; bu izin
-aşağıdaki koşullara tabidir:
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına
-veya önemli parçalarına dahil edilecektir.
-
-YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTA OLUP, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA
-UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE
-AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
