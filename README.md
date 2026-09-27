@@ -93,7 +93,7 @@ tek bir yönetim panelinden takip edebilir. Arayüz tamamen Türkçedir; kod tab
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <github.com/KuzeyKurulus/TowTrack>
 cd TowTrack
 ```
 
